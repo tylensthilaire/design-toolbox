@@ -15,6 +15,7 @@
 * [Raster Art Tools](#raster-art-tools)
 * [Vector Art Tools](#vector-art-tools)
 * [Desktop Publishing Tools](#desktop-publishing-tools)
+* [Design Utilities](#design-utilities)
 
 ## UI Design Tools
 ### Best
@@ -121,3 +122,11 @@
 * [InDesign](https://www.adobe.com/uk/products/indesign.html)
 ### Rest
 [Affinity Publisher](https://affinity.serif.com/en-gb/publisher/)
+
+## Design Utilities
+### Best
+* [Color](https://color.adobe.com/)
+* [Color Space](https://mycolor.space)
+* [Sneakpeekit](https://sneakpeekit.com/)
+### Rest
+[Coolors.co](https://coolors.co/), [Skala Color](https://bjango.com/mac/skalacolor/), [xScope](https://xscopeapp.com), [Sketchsheets](https://sketchsheets.com/), [Trianglify](https://trianglify.io), [Web Gradients](https://webgradients.com)
