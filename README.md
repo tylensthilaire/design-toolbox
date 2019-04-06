@@ -16,6 +16,16 @@
 * [Vector Art Tools](#vector-art-tools)
 * [Desktop Publishing Tools](#desktop-publishing-tools)
 * [Design Utilities](#design-utilities)
+* [Documentation And Collaboration Tools](#documentation-and-collaboration-tools)
+* [Wordpress Builders](#wordpress-builders)
+* [CMS's](#cms-s)
+* [Text Editors](#text-editors)
+* [Development Sandboxes](#development-sandboxes)
+* [DevOps](#devops)
+* [Domain Sellers](#domain-sellers)
+* [Microsite Builders](#microsite-builders)
+* [Font Tools](#font-tools)
+* [Font Foundries](#font-foundaries)
 
 ## UI Design Tools
 ### Best
@@ -29,6 +39,7 @@
 * [Omnigraffle](https://www.omnigroup.com/omnigraffle/)
 * [OmniOutliner](https://www.omnigroup.com/omnioutliner)
 * [QuickDBD](https://www.quickdatabasediagrams.com)
+* [Mermaid Diagrams](https://mermaidjs.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbkFbQ2hyaXN0bWFzXSAtLT58R2V0IG1vbmV5fCBCKEdvIHNob3BwaW5nKVxuQiAtLT4gQ3tMZXQgbWUgdGhpbmt9XG5DIC0tPnxPbmV8IERbTGFwdG9wXVxuQyAtLT58VHdvfCBFW2lQaG9uZV1cbkMgLS0-fFRocmVlfCBGW2ZhOmZhLWNhciBDYXJdXG4iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9fQ)
 ### Rest
 * [LucidChart](https://www.lucidchart.com/)
 
@@ -102,7 +113,7 @@
 * [Mixpanel](https://mixpanel.com/)
 * [Flurry](https://www.flurry.com/)
 ### Rest
-[Amplitude](https://amplitude.com/), [FullStory](https://www.fullstory.com/), [Inspectlet](https://www.inspectlet.com/), [LogRocket](https://www.logrocket.com/), [Pendo](https://www.pendo.io/), [Mouseflow](https://mouseflow.com/)
+[Amplitude](https://amplitude.com/), [FullStory](https://www.fullstory.com/), [Inspectlet](https://www.inspectlet.com/), [LogRocket](https://www.logrocket.com/), [Pendo](https://www.pendo.io/), [Mouseflow](https://mouseflow.com/), [Simple Analytics](https://simpleanalytics.io), [Matomo](https://matomo.org)
 
 ## Raster Art Tools
 ### Best
@@ -129,4 +140,82 @@
 * [Color Space](https://mycolor.space)
 * [Sneakpeekit](https://sneakpeekit.com/)
 ### Rest
-[Coolors.co](https://coolors.co/), [Skala Color](https://bjango.com/mac/skalacolor/), [xScope](https://xscopeapp.com), [Sketchsheets](https://sketchsheets.com/), [Trianglify](https://trianglify.io), [Web Gradients](https://webgradients.com)
+[Coolors.co](https://coolors.co/), [Skala Color](https://bjango.com/mac/skalacolor/), [xScope](https://xscopeapp.com), [Sketchsheets](https://sketchsheets.com/), [Trianglify](https://trianglify.io), [Web Gradients](https://webgradients.com), [Svgsus](http://www.svgs.us/), [TinEye](https://www.tineye.com/)
+
+## Documentation And Collaboration Tools
+### Best
+* [Airtable](https://airtable.com/)
+* [appear.in](https://appear.in/)
+* [Harvest](https://www.getharvest.com)
+* [Jira](https://www.atlassian.com/software/jira)
+* [Miro](https://miro.com/)
+* [Notion](https://www.notion.so)
+* [Slack](https://slack.com/)
+* [Coda](https://coda.io/welcome)
+
+### Rest
+* [Asana](https://asana.com/), [Basecamp](https://basecamp.com/), [Filestage](https://filestage.io/), [Gallery.io](https://material.io/tools/gallery/), [GoToMeeting](https://www.gotomeeting.com/en-gb), [HiveDesk](https://www.hivedesk.com/), [Milanote](https://milanote.com/), [MURAL](https://mural.co/), [ProofHub](https://www.proofhub.com/), [Skype](https://www.skype.com/en/new/),  [Trello](https://trello.com/) [Visual Inspector](https://www.canvasflip.com/visual-inspector/), [Witeboard](https://www.witeboard.com/), [Workzone](https://www.workzone.com/), [Wrike](https://www.wrike.com/), [Zenkit](https://zenkit.com/), [Flawless Feedback](https://flawlessapp.io/feedback)
+
+## Wordpress Builders
+### Best
+* [Semplice](https://www.semplice.com/)
+
+### Rest
+[Divi](https://www.elegantthemes.com/gallery/divi/)
+
+## CMS's
+### Best
+* [Wordpress](https://wordpress.org/)
+* [Statamic](https://statamic.com)
+* [Kentico](https://www.kentico.com)
+* [Contentful](https://www.contentful.com)
+### Rest
+[Kirby](https://getkirby.com/), [DADI](https://dadi.cloud/en/publish/), [Episerver](https://www.episerver.com/), [Symphony](https://www.getsymphony.com/), [Joomla](https://www.joomla.org), [Drupal](https://www.drupal.org/), [Craft](https://craftcms.com/)
+
+## Text Editors
+### Best
+* [Atom](https://atom.io/)
+* [Brackets](http://brackets.io/)
+### Rest
+[Sublime Text](https://www.sublimetext.com/)
+
+## Development Sandboxes
+### Best
+* [CodeSandbox](https://codesandbox.io)
+### Rest
+[Codepen](https://codepen.io/)
+
+## DevOps
+### Best
+* [Digital Ocean](https://www.digitalocean.com/)
+* [AWS](https://aws.amazon.com/)
+### Rest
+[Microsoft Azure](https://azure.microsoft.com/en-gb/)
+
+## Domain Sellers
+### Best
+* [Gandi](https://www.gandi.net/)
+### Rest
+[GoDaddy](https://uk.godaddy.com/), [123 Reg](https://uk.godaddy.com/)
+
+## Microsite Builders
+### Best
+## Website Builders
+* [Squarespace](https://www.squarespace.com/)
+### Rest
+[Cargo Collective](https://2.cargocollective.com/), [Webflow](https://webflow.com/)
+
+## Font Tools
+### Best
+* [Fontbase](https://fontba.se/)
+* [RightFont](https://rightfontapp.com/)
+* [Wakamai Fondue](https://wakamaifondue.com/)
+### Rest
+[Typeface](https://typefaceapp.com/), [Webfont](https://webfontapp.com/)
+
+## Font Foundries
+### Best
+* [Adobe Fonts](https://fonts.adobe.com/fonts)
+* [Google Fonts](https://fonts.google.com/)
+### Rest
+[Font Squirrel](https://www.fontsquirrel.com)
