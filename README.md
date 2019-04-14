@@ -26,6 +26,19 @@
 * [Microsite Builders](#microsite-builders)
 * [Font Tools](#font-tools)
 * [Font Foundries](#font-foundaries)
+* [Utilities](#utilities)
+* [Stock Images](#stock-images)
+* [Stock Videos](#stock-videos)
+* [Icon Kits](#icon-kits)
+* [Illustrations](#illustrations)
+* [Stock Music And Sounds](#stock-music-and-sounds)
+* [Mockups, UI Kits, Resources](#mockups-ui-kits-resources)
+* [Inspiration](#inspiration)
+* [Extended Reality And Blended Space Tools](#extended-reality-and-blended-space-tools)
+* [Cloud File Storage](#cloud-file-storage)
+* [3D Design Tools](#3d-design-tools)
+* [Quick Reference](#quick-reference)
+* [Sketch Plugins](#sketch-plugins)
 
 ## UI Design Tools
 ### Best
@@ -49,8 +62,10 @@
 * [xSort](https://www.optimalworkshop.com/treejack)
 * [Maze](https://maze.design/)
 * [Silverback](https://silverbackapp.com/)
+* [Lookback](https://lookback.io/)
+* [UserTesting](https://www.usertesting.com/)
 ### Rest
-* [Google Forms](https://www.google.co.uk/forms/about/)
+* [Google Forms](https://www.google.co.uk/forms/about/), [Maze](https://maze.design/), [Userbrain](https://userbrain.net/), [UserZoom](https://www.userzoom.com), [Ethnio](https://ethn.io/), [Usabilla](https://usabilla.com/), [User Conversion](https://www.userconversion.com/), [Validately](https://validately.com/), [Usersthink](https://usersthink.com/), [Crazyegg](https://www.crazyegg.com/), [Clicktale](https://www.clicktale.com/)
 
 ## User Flow Tools
 ### Best
@@ -67,7 +82,7 @@
 * [Keynote](https://www.apple.com/keynote/)
 * [Bot Society](https://botsociety.io/)
 ### Rest
-[Alva](https://www.meetalva.io/), [Balsamiq](https://balsamiq.com/), [Creo](https://creolabs.com/), [Flinto](https://www.flinto.com/), [Marvel App](https://marvelapp.com/), [Principle](https://principleformac.com/), [Proto.io](https://proto.io/), [UXPin](https://www.uxpin.com/)
+[Alva](https://www.meetalva.io/), [Balsamiq](https://balsamiq.com/), [Creo](https://creolabs.com/), [Flinto](https://www.flinto.com/), [Marvel App](https://marvelapp.com/), [Principle](https://principleformac.com/), [Proto.io](https://proto.io/), [UXPin](https://www.uxpin.com/), [POP](https://marvelapp.com/pop/), [Origami](https://origami.design/)
 
 ## Design Handoff Tools
 ### Best
@@ -151,8 +166,9 @@
 * [Color Space](https://mycolor.space)
 * [Sneakpeekit](https://sneakpeekit.com/)
 * [InVision DSM](https://www.invisionapp.com/design-system-manager)
+* [Reflektop](https://www.airsquirrels.com/reflector)
 ### Rest
-[Coolors.co](https://coolors.co/), [Skala Color](https://bjango.com/mac/skalacolor/), [xScope](https://xscopeapp.com), [Sketchsheets](https://sketchsheets.com/), [Trianglify](https://trianglify.io), [Web Gradients](https://webgradients.com), [Svgsus](http://www.svgs.us/), [TinEye](https://www.tineye.com/), [IconJar](https://www.geticonjar.com/), [Nucleo](https://nucleoapp.com/), [Lingo](https://www.lingoapp.com/), [Nucleo](https://nucleoapp.com/)
+[Coolors.co](https://coolors.co/), [Skala Color](https://bjango.com/mac/skalacolor/), [xScope](https://xscopeapp.com), [Sketchsheets](https://sketchsheets.com/), [Trianglify](https://trianglify.io), [Web Gradients](https://webgradients.com), [Svgsus](http://www.svgs.us/), [TinEye](https://www.tineye.com/), [IconJar](https://www.geticonjar.com/), [Nucleo](https://nucleoapp.com/), [Lingo](https://www.lingoapp.com/), [Nucleo](https://nucleoapp.com/), [UINames](https://uinames.com/), [Blobmaker](https://www.blobmaker.app)
 
 ## Documentation And Collaboration Tools
 ### Best
@@ -168,7 +184,7 @@
 * [Gitbook](https://www.gitbook.com/)
 
 ### Rest
-* [Asana](https://asana.com/), [Basecamp](https://basecamp.com/), [Filestage](https://filestage.io/), [Gallery.io](https://material.io/tools/gallery/), [GoToMeeting](https://www.gotomeeting.com/en-gb), [HiveDesk](https://www.hivedesk.com/), [Milanote](https://milanote.com/), [MURAL](https://mural.co/), [ProofHub](https://www.proofhub.com/), [Skype](https://www.skype.com/en/new/),  [Trello](https://trello.com/) [Visual Inspector](https://www.canvasflip.com/visual-inspector/), [Witeboard](https://www.witeboard.com/), [Workzone](https://www.workzone.com/), [Wrike](https://www.wrike.com/), [Zenkit](https://zenkit.com/), [Flawless Feedback](https://flawlessapp.io/feedback), [WeTransfer](https://wetransfer.com/)
+* [Asana](https://asana.com/), [Basecamp](https://basecamp.com/), [Filestage](https://filestage.io/), [Gallery.io](https://material.io/tools/gallery/), [GoToMeeting](https://www.gotomeeting.com/en-gb), [HiveDesk](https://www.hivedesk.com/), [Milanote](https://milanote.com/), [MURAL](https://mural.co/), [ProofHub](https://www.proofhub.com/), [Skype](https://www.skype.com/en/new/),  [Trello](https://trello.com/) [Visual Inspector](https://www.canvasflip.com/visual-inspector/), [Witeboard](https://www.witeboard.com/), [Workzone](https://www.workzone.com/), [Wrike](https://www.wrike.com/), [Zenkit](https://zenkit.com/), [Flawless Feedback](https://flawlessapp.io/feedback), [WeTransfer](https://wetransfer.com/), [Whimsical](https://whimsical.co/)
 
 ## Wordpress Builders
 ### Best
@@ -238,8 +254,11 @@
 ### Best
 * [Adobe Fonts](https://fonts.adobe.com/fonts)
 * [Google Fonts](https://fonts.google.com/)
+* [League Of Movable Type](https://www.theleagueofmoveabletype.com/)
+* [Colophon Foundry](https://www.colophon-foundry.org/typefaces/)
+* [Lineto](https://lineto.com/)
 ### Rest
-[Font Squirrel](https://www.fontsquirrel.com)
+[Font Squirrel](https://www.fontsquirrel.com), [T26](https://www.t26.com/), [Mileu Grotesque](https://www.milieugrotesque.com/), [Lost Type](http://www.losttype.com/browse/)
 
 ## Utilities
 ### Best
@@ -291,14 +310,14 @@
 ### Rest
 [AudioJungle](https://audiojungle.net/), [Bensound](https://www.bensound.com/), [Wistia Music](https://wistia.com/resources/music), [WOWA](https://www.wowa.me/), [YouTube Audio Library](https://www.youtube.com/audiolibrary/music), [BBC Sound Effects](http://bbcsfx.acropolis.org.uk/), [SoundKit](https://soundkit.io/)
 
-## Mockups, UI Kits, Resources
+## Mockups UI Kits Resources
 ### Best
 * [Devices by Facebook](https://facebook.design/devices)
 * [Lstore Graphics](https://www.ls.graphics/)
 * [UI8](https://ui8.net)
 * [Design Files](https://files.design/)
 ### Rest
-[Artboard Studio](https://artboard.studio/), [Cleanmock](https://cleanmock.com), [Craftwork Design](https://craftwork.design/), [Dimmy.club](https://dimmy.club/), [Frrames](https://frrames.com/), [Mockup World](https://www.mockupworld.co/), [Mockups For Free](https://mockupsforfree.com/), [Mockuuups](https://mockuuups.studio/), [Mock Video](https://www.mock.video/), [Overframe for Mac](https://overframe.xyz/), [PixelBuddha](https://pixelbuddha.net/), [Ramotion Store](https://store.ramotion.com/), [Rotato](https://www.rotato.xyz/), [Screely](https://www.screely.com/), [ScreenSpace](https://www.screenspace.io/), [Smartmockups](https://smartmockups.com/), [shotsnapp](https://shotsnapp.com/), [The Mockup Club](https://themockup.club/), [Threed](http://threed.io/), [UI Store Design](https://www.uistore.design/), [Vector Mockups Library](https://mockups.kkuistore.com/), [Sketch App Sources](https://www.sketchappsources.com/), [Freebies Bug](https://freebiesbug.com/sketch-freebies/), [Sketch Repo](https://sketchrepo.com/), [UI Space](https://uispace.net/free-sketch), [Graphic Burger](https://graphicburger.com/)
+[Artboard Studio](https://artboard.studio/), [Cleanmock](https://cleanmock.com), [Craftwork Design](https://craftwork.design/), [Dimmy.club](https://dimmy.club/), [Frrames](https://frrames.com/), [Mockup World](https://www.mockupworld.co/), [Mockups For Free](https://mockupsforfree.com/), [Mockuuups](https://mockuuups.studio/), [Mock Video](https://www.mock.video/), [Overframe for Mac](https://overframe.xyz/), [PixelBuddha](https://pixelbuddha.net/), [Ramotion Store](https://store.ramotion.com/), [Rotato](https://www.rotato.xyz/), [Screely](https://www.screely.com/), [ScreenSpace](https://www.screenspace.io/), [Smartmockups](https://smartmockups.com/), [shotsnapp](https://shotsnapp.com/), [The Mockup Club](https://themockup.club/), [Threed](http://threed.io/), [UI Store Design](https://www.uistore.design/), [Vector Mockups Library](https://mockups.kkuistore.com/), [Sketch App Sources](https://www.sketchappsources.com/), [Freebies Bug](https://freebiesbug.com/sketch-freebies/), [Sketch Repo](https://sketchrepo.com/), [UI Space](https://uispace.net/free-sketch), [Graphic Burger](https://graphicburger.com/), [PlaceIt](https://placeit.net/)
 
 ## Inspiration
 ### Best
@@ -335,4 +354,88 @@
 ### Best
 * [Paper Sizes](https://papersizes.io/)
 * [Dimensions Guide](https://www.dimensions.guide/)
+* [Social Sizes](https://socialsizes.io/)
 ### Rest
+
+## Sketch Plugins
+### Best
+* [Toybox Linter](https://github.com/toyboxsystems/roller)
+* [Shared Styles Manager](https://gumroad.com/l/sketch-shared-styles-manager)
+* [Symbols Manager](https://gumroad.com/l/sketch-symbols-manager)
+* [Text Styles Manager](https://gumroad.com/l/sketch-text-styles-manager)
+* [Shared Style Finder](https://github.com/sonburn/shared-style-finder)
+* [SVGO Compressor](https://github.com/BohemianCoding/svgo-compressor)
+* [Symbol Instance Locator](https://github.com/sonburn/symbol-instance-locator)
+* [Symbol Instance Renamer](https://github.com/sonburn/symbol-instance-renamer)
+* [Symbol Organiser](https://github.com/sonburn/symbol-organizer)
+* [Symbol Swapper](https://github.com/sonburn/style-swapper)
+* [Unused Style Remover](https://github.com/sonburn/unused-style-remover)
+* [Sketch Runner](https://sketchrunner.com/)
+* [Cleanup Useless Groups](https://github.com/bomberstudios/Cleanup-Useless-Groups)
+* [Map Generator](https://github.com/eddiesigner/sketch-map-generator)
+* [Nudge, Push, Shove](https://nudgepushshove.com/)
+* [PDF Export](https://github.com/DWilliames/PDF-export-sketch-plugin)
+### Rest
+
+## Chrome Plugins
+### Best
+* [Toby](https://chrome.google.com/webstore/detail/toby-for-chrome/hddnkoipeenegfoeaoibdmnaalmgkpip)
+* [Window Resiser](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh)
+* [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)
+* [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb)
+### Rest
+
+## Office Suites
+### Best
+* [G Suite](https://www.google.co.uk/docs/about/)
+### Rest
+* [LibreOffice](https://www.libreoffice.org/)
+* [Open Office](https://www.openoffice.org/)
+* [Microsoft Office](https://products.office.com/en-gb)
+* [iWork](https://www.apple.com/uk/iwork/)
+
+## QA Tools
+### Best
+* [AppSpector](https://appspector.com/)
+* [Toybox](https://www.toyboxsystems.com/)
+* [Browserstack](https://www.browserstack.com/)
+### Rest
+
+## Reads
+### Best
+* [Daring Fireball](https://daringfireball.net/)
+* [Fast Company](https://www.fastcompany.com/)
+* [The Next Web](https://thenextweb.com/)
+* [Codrops](https://tympanus.net/codrops/)
+* [Wired](https://www.wired.co.uk/)
+* [A List Apart](https://alistapart.com/)
+* [UX Movement](https://uxmovement.com/)
+* [Creative Review](https://www.creativereview.co.uk/)
+* [Mark Boulton](https://markboulton.co.uk/)
+* [NNG](https://www.nngroup.com/)
+* [Think With Google](https://www.thinkwithgoogle.com/)
+* [UX Booth](https://www.uxbooth.com/)
+* [Accessibility In Government](https://accessibility.blog.gov.uk/)
+* [Bjango](https://bjango.com/articles/)
+* [Frog](https://www.frogdesign.com/perspectives)
+* [IDEO](https://www.ideo.com/blog)
+* [Luke W](https://www.lukew.com/)
+* [Brad Frost](http://bradfrost.com/)
+* [Search Engine Land](https://searchengineland.com/)
+* [XKCD](https://xkcd.com/)
+* [SmashingMag](https://www.smashingmagazine.com/)
+### Rest
+[Muzli](https://medium.muz.li/), [UX Collective](https://uxdesign.cc/), [The Keyword](https://www.blog.google/),[Abduzeedo](http://abduzeedo.com/)
+
+## Podcasts
+* [99% INVISIBLE](http://99percentinvisible.org/)
+
+## Conferences and Festivals
+* [SXSW](https://www.sxsw.com/)
+* [CHI](https://chi2019.acm.org/)
+
+## Awards
+* [Apple Design Awards](https://developer.apple.com/design/awards/)
+* [CSS Design Awards](http://www.cssdesignawards.com/)
+* [D&AD](https://www.dandad.org/)
+* [Awwwards](https://www.awwwards.com/)
