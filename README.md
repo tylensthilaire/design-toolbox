@@ -39,6 +39,13 @@
 * [3D Design Tools](#3d-design-tools)
 * [Quick Reference](#quick-reference)
 * [Sketch Plugins](#sketch-plugins)
+* [Chrome Plugins](#chrome-plugins)
+* [Office Suites](#office-suites)
+* [QA Tools](#qa-tools)
+* [Reads](#Reads)
+* [Podcasts](#podcasts)
+* [Conferences and Festivals](conferences-and-festivals)
+* [Awards](#awards)
 
 ## UI Design Tools
 ### Best
