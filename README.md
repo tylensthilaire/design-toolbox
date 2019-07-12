@@ -4,7 +4,8 @@
 <a href="#contents">How it works</a> •
 <a href="#contributing">Contributing</a> •
 <a href="#workstreams">Workstreams</a> •
-<a href="#all-tools">All tools</a> •
+<a href="#bins">Bins</a> •
+<a href="#tool-list">Tool list</a> •
 <a href="#"><del>Website</del></a>
 <br>
 <small>v2.0.0</small>
@@ -12,11 +13,11 @@
 <br>
 </div>
 
-**Finding the best set-up is hard**, especially when there's new tools what feels like every day. Design Toolbox **eliminates decision fatigue** by only listing the **recommended tools.**<br>
+**Finding the best set-up is hard**, especially when there's new tools what feels like every day. Design Toolbox **eliminates decision fatigue** by only listing **recommended tools.**<br>
 
 ## 🧰 How it works
 
-Each recommended toolkit is listed under a workstream, such as UX, Front-End, etc. Find the right [stream](#workstreams) for your task, scan the list of tools, then go off and grab the tools you need.
+Each recommended toolkit is listed under a workstream, such as UX, Front-End, etc. Find the right [stream](#workstreams) for your task, scan through the toolkit, then go off and grab the tools you need.
 
 Tools are judged on the following rules of thumb. The rules leave room for *opinionation* so that you don't have to spend as much time evaluating each tool. In principle, if you agree with the rules, you can trust the list.
 
@@ -37,7 +38,7 @@ Established > Challenger > Beta
 Fewer tools > More tools
 </pre>
 
-A full list of [all tools](#all-tools) can be found after the toolboxes. The full list contains more information on each tool, including any killer features, dealbreakers and a link to the source.
+A full list of [all tools](#all-tools) can be found after the toolboxes. The full list contains more information on each tool, including any killer features, dealbreakers and a link to the source. Anything that isn't a tool in and of itself but is still useful to list is dropped into the [bins](#bins).
 
 If you have a suggestion, correction, the list is out of date or you think the recommendation is plain wrong, you can [raise an issue](/issues).
 
@@ -47,125 +48,75 @@ All tools need sharpening once in a while, so contribution is welcome. If you ju
 
 ## 🧰 Toolboxes
 
-<ul style="columns:2;column-rule-style:solid;list-style-type:none;">
-<li><a href="#ui-design">UI Design</a></li>
-<li><a href="#information-architecture">Information Architecture</a></li>
-<li><a href="#research-&-testing">Research & Testing</a></li>
-<li><a href="#user-flow-mapping">User Flow Mapping</a></li>
-<li><a href="#design-systems">Design Systems</a></li>
-<li><a href="#prototyping">Prototyping</a></li>
-<li><a href="#design-handoff">Design Handoff</a></li>
-<li><a href="#design-version-control">Design Version Control</a></li>
-<li><a href="#user-flow-mapping">User Flow Mapping</a></li>
-<li><a href="#accessibility">Accessibility</a></li>
-<li><a href="#motion-design">Motion Design</a></li>
-<li><a href="#experience-measuring">Experience Measuring</a></li>
-<li><a href="#raster-art">Raster Art</a></li>
-<li><a href="#vector-art-tools">Vector Art</a></li> 
-<li><a href="#desktop-publishing">Desktop Publishing</a></li> 
-<li><a href="#design-utilities">Design Utilities</a></li> 
-<li><a href="#docs-&-collaboration">Docs & Collaboration</a></li> 
-<li><a href="#wordpress-builders">Wordpress Builders</a></li> 
-<li><a href="#cmss">CMSs</a></li>
-<li><a href="#text-editors-&-IDEs">Text Editors & IDEs</a></li> 
-<li><a href="#development-sandboxes">Development Sandboxes</a></li> 
-<li><a href="#devops">Devops</a></li> 
-<li><a href="#domain-sellers">Domain Sellers</a></li> 
-<li><a href="#microsite-builders">Microsite Builders</a></li> 
-<li><a href="#font-tools">Font Tools</a></li> 
-<li><a href="#font-foundaries">Font Foundries</a></li> 
-<li><a href="#utilities">Utilities</a></li> 
-<li><a href="#stock-images">Stock Images</a></li> 
-<li><a href="#stock-videos">Stock Videos</a></li> 
-<li><a href="#icon-kits">Icon Kits</a></li>
-<li><a href="#illustrations">Illustrations</a></li>
-<li><a href="#stock-audio">Stock Audio</a></li>
-<li><a href="#mockups-&-ui-kits">Mockups & UI Kits</a></li>
-<li><a href="#inspiration">Inspiration</a></li>
-<li><a href="#extended-reality">Extended Reality</a></li>
-<li><a href="#clou-storage">Cloud Storage</a></li>
-<li><a href="#3d-design">3D Design</a></li>
-<li><a href="#quick-reference">Quick Reference</a></li>
-<li><a href="#sketch-plugins">Sketch Plugins</a></li>
-<li><a href="#chrome-plugins">Chrome Plugins</a></li>
-<li><a href="#office-suites">Office Suites</a></li>
-<li><a href="#qa-tools">QA Tools</a></li>
-<li><a href="#Reads">Reads</a></li>
-<li><a href="#podcasts">Podcasts</a></li>
-<li><a href="#conferences">Conferences</a></li>
-<li><a href="#awards">Awards</a></li>
-<li><a href="#site-archivers">Site Archivers</a></li>
-</ul>
+| Contents |  |
+|----------|----------|
+| [UI Design](#ui-design) | [Information Architecture](#information-architecture) |
+| [Research & Testing](#research-&-testing) | [UX](#ux) |
+| [Accessibility](#accessibility) | [Content Strategy](#content-strategy) |
+| [Front-end](#front-end) | [Back-end](#back-end) |
+| [Experience Measuring](#experience-measuring) | [Graphic Communication](#graphic-communication) |
+| [Photography](#photography) | [Design Utilities](#design-utilities) |
+| [Docs & Collaboration](#docs-&-collaboration) | [DevOps](#devops) |
+| [QA](#qa) | [Extended Reality](#extended-reality) |
+| [3D Design](#3d-design) | [2D & 3D Animation](#2d-&-3d-animation) |
 
 ### UI Design
 
 * [Sketch](https://www.sketchapp.com/)
-* [InVision Studio](https://www.invisionapp.com/studio)
-* [Framer X](https://www.framer.com/)
+* [Abstract](https://www.goabstract.com/)
+* [After Effects](https://www.adobe.com/products/aftereffects.html)
+* [Bodymovin AE Plugin](https://aescripts.com/bodymovin/)
+* [Catalog](https://www.catalog.style/)
+* [ArchiveBox](https://github.com/pirate/ArchiveBox)
+* [Fontbase](https://fontba.se/)
 
 ### Information Architecture
 
 * [Omnigraffle](https://www.omnigroup.com/omnigraffle/)
 * [OmniOutliner](https://www.omnigroup.com/omnioutliner)
 * [QuickDBD](https://www.quickdatabasediagrams.com)
-* [Mermaid Diagrams](https://mermaidjs.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbkFbQ2hyaXN0bWFzXSAtLT58R2V0IG1vbmV5fCBCKEdvIHNob3BwaW5nKVxuQiAtLT4gQ3tMZXQgbWUgdGhpbmt9XG5DIC0tPnxPbmV8IERbTGFwdG9wXVxuQyAtLT58VHdvfCBFW2lQaG9uZV1cbkMgLS0-fFRocmVlfCBGW2ZhOmZhLWNhciBDYXJdXG4iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9fQ)
+* [Integrity](https://peacockmedia.software/mac/integrity/free.html))
 
 ### Research & Testing
 
 * [OptimalWorkshop](https://www.optimalworkshop.com)
-* [xSort](https://www.optimalworkshop.com/treejack)
-* [Maze](https://maze.design/)
-* [Silverback](https://silverbackapp.com/)
 * [Lookback](https://lookback.io/)
-* [UserTesting](https://www.usertesting.com/)
 
-### User Flow Mapping
+### UX
 
 * [Sketch.systems](https://sketch.systems/)
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle/)
 * [Twine](http://twinery.org/)
-
-### Prototyping
-
+* [Sketch](https://www.sketchapp.com/)
 * [Axure RP](https://www.axure.com/)
-* [ProtoPie](https://www.protopie.io/)
-* [Keynote](https://www.apple.com/keynote/)
-* [Bot Society](https://botsociety.io/)
-
-### Design Handoff
-
 * [InVision](https://www.invisionapp.com/)
-
-### Design Systems
-
-* [InVision DSM](https://www.invisionapp.com/design-system-manager/)
-* [Catalog](https://www.catalog.style/)
-
-### Design Version Control
-
 * [Abstract](https://www.goabstract.com/)
+* [Framer X](https://www.framer.com/)
 
 ### Accessibility
 
 * [Axe](https://www.deque.com/axe/)
 * [Contraste](https://contrasteapp.com)
-* [PA11Y](http://pa11y.org/)
-* [tota11y](http://khan.github.io/tota11y/)
 * [Colour Oracle](https://colororacle.org/)
-* [Contrast Ratio Checker](https://contrast-ratio.com/)
 
-### UI Motion Design
+### Content Strategy
 
-* [After Effects](https://www.adobe.com/products/aftereffects.html)
+* [Scrutiny](https://peacockmedia.software/mac/scrutiny/index.html)
+* [WebScraper](https://peacockmedia.software/mac/webscraper/)
+* [Airtable](https://airtable.com/)
+* [Atom](https://atom.io/)
+* [Social Sizes](https://socialsizes.io/)
+
+### Front-end
+
 * [Lottie](https://airbnb.io/lottie/)
-* [LightBox](https://uselightbox.com/)
+* [Catalog](https://www.catalog.style/)
+* [Pa11y CI](https://github.com/pa11y/pa11y-ci)
+* [CodeSandbox](https://codesandbox.io)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Wakamai Fondue](https://wakamaifondue.com/)
 
-### 2D And 3D Animation
-
-* [Autodesk 3DS Max](https://www.autodesk.co.uk/products/3ds-max/overview)
-* [blender](https://www.blender.org/features/animation/)
-* [Autodesk Maya](https://www.autodesk.co.uk/products/maya)
-* [Cinema 4D](https://www.maxon.net/en-gb/products/cinema-4d/overview/)
+### Back-end
 
 ### Experience Measuring
 
@@ -175,18 +126,21 @@ All tools need sharpening once in a while, so contribution is welcome. If you ju
 * [Hotjar](https://www.hotjar.com/)
 * [Mixpanel](https://mixpanel.com/)
 * [Flurry](https://www.flurry.com/)
+* [Pa11y Dashboard](https://github.com/pa11y/pa11y-dashboard)
+* [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)
 
-### Raster Art
+### Graphic Communication
 
 * [Photoshop](https://www.adobe.com/products/photoshop.html)
-
-### Vector Art
-
 * [Illustrator](https://www.adobe.com/products/illustrator.html)
-
-### Desktop Publishing
-
 * [InDesign](https://www.adobe.com/uk/products/indesign.html)
+* [Social Sizes](https://socialsizes.io/)
+* [Fontbase](https://fontba.se/)
+
+### Photography
+
+* [Photoshop](https://www.adobe.com/products/photoshop.html)
+* [Lightroom](https://www.adobe.com/uk/products/photoshop-lightroom.html)
 
 ### Design Utilities
 
@@ -208,27 +162,9 @@ All tools need sharpening once in a while, so contribution is welcome. If you ju
 * [Coda](https://coda.io/welcome)
 * [Smash](https://fromsmash.com/)
 * [Gitbook](https://www.gitbook.com/)
-
-### Wordpress Builders
-
-* [Semplice](https://www.semplice.com/)
-
-### CMSs
-
-* [Wordpress](https://wordpress.org/)
-* [Statamic](https://statamic.com)
-* [Kentico](https://www.kentico.com)
-* [Contentful](https://www.contentful.com)
-
-### Text Editors & IDEs
-
-* [Atom](https://atom.io/)
-* [Brackets](http://brackets.io/)
-* [VisualSCode](https://code.visualstudio.com/)
-
-### Development Sandboxes
-
-* [CodeSandbox](https://codesandbox.io)
+* [G Suite](https://www.google.co.uk/docs/about/)
+* [Dropbox](https://www.dropbox.com/)
+* [Resilio Sync](https://www.resilio.com/)
 
 ### DevOps
 
@@ -241,22 +177,41 @@ All tools need sharpening once in a while, so contribution is welcome. If you ju
 * [Pingdom](https://www.pingdom.com)
 * [New Relic](https://newrelic.com/)
 * [CloudFlare](https://www.cloudflare.com/en-gb/)
-
-### Domain Sellers
-
 * [Gandi](https://www.gandi.net/)
 
-### Microsite Builders
+### QA
 
-* [Squarespace](https://www.squarespace.com/)
+* [AppSpector](https://appspector.com/)
+* [Toybox](https://www.toyboxsystems.com/)
+* [Browserstack](https://www.browserstack.com/)
+* [tota11y](http://khan.github.io/tota11y/)
 
-### Font Tools
+### Extended Reality And Blended Space Tools
 
-* [Fontbase](https://fontba.se/)
-* [RightFont](https://rightfontapp.com/)
-* [Wakamai Fondue](https://wakamaifondue.com/)
+### 3D Design Tools
 
-### Font Foundries
+* [SketchUp](https://www.sketchup.com/)
+* [AutoCAD](https://www.autodesk.co.uk/products/autocad/overview)
+
+### 2D And 3D Animation
+
+* [Autodesk 3DS Max](https://www.autodesk.co.uk/products/3ds-max/overview)
+* [blender](https://www.blender.org/features/animation/)
+* [Autodesk Maya](https://www.autodesk.co.uk/products/maya)
+* [Cinema 4D](https://www.maxon.net/en-gb/products/cinema-4d/overview/)
+
+## 🧰 Bins
+
+| Contents |  |
+|----------|----------|
+| [Type Foundries](#type-foundries) | [Utilities](#utilities) |
+| [Stock & Resources](#stock-&-resources) | [UI Kits](#ui-kits) |
+| [Inspiration](#inspiration) | [Sketch Plugins](#sketch-plugins) |
+| [Chrome Plugins](#chrome-plugins) | [Podcasts, Blogs, Books](#podcasts-blogs-books) |
+| [Conferences, Festivals, Awards](#conferences-festivals-awards) | [Microsite Builders](#graphic-communication) |
+| [CMSs](#cmss) | |
+
+### Type Foundries
 
 * [Adobe Fonts](https://fonts.adobe.com/fonts)
 * [Google Fonts](https://fonts.google.com/)
@@ -270,40 +225,23 @@ All tools need sharpening once in a while, so contribution is welcome. If you ju
 * [W3 Validator](https://validator.w3.org/nu/#l37c10)
 * [Grid Calculator](http://gridcalculator.dk/)
 * [Modular Scale Calculator](https://www.modularscale.com/)
+* [Paper Sizes](https://papersizes.io/)
+* [Dimensions Guide](https://www.dimensions.guide/)
 
-### Stock Images
+### Stock & Resources
 
-* [Moose](https://photos.icons8.com/)
 * [Pexels](https://www.pexels.com/)
 * [UI Faces](https://uifaces.co/)
-* [Unsplash](https://unsplash.com)
-* [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
-
-### Stock Videos
-
 * [Mixkit](https://mixkit.co/)
-
-### Icon Kits
-
-* [Icons8](https://icons8.com/icons)
-* [Feather Icons](https://feathericons.com/)
-* [Material Design Icons](https://materialdesignicons.com/)
 * [Noun Project](https://thenounproject.com/)
 * [Entypo](http://www.entypo.com/)
-* [Linea](http://www.linea.io/)
-
-### Illustrations
-
 * [OUCH](https://icons8.com/ouch)
-
-### Stock Music And Sounds
-
 * [Fugue Music](https://icons8.com/music)
 * [UI Sounds](https://files.design/sounds)
-
-### Mockups UI Kits Resources
-
 * [Devices by Facebook](https://facebook.design/devices)
+
+### UI Kits
+
 * [Lstore Graphics](https://www.ls.graphics/)
 * [UI8](https://ui8.net)
 * [Design Files](https://files.design/)
@@ -317,27 +255,8 @@ All tools need sharpening once in a while, so contribution is welcome. If you ju
 * [UI Sources](https://www.uisources.com/)
 * [Really Good Emails](https://reallygoodemails.com/)
 
-### Extended Reality And Blended Space Tools
-
-### Cloud File Storage
-
-* [Dropbox](https://www.dropbox.com/)
-* [Resilio Sync](https://www.resilio.com/)
-
-### 3D Design Tools
-
-* [SketchUp](https://www.sketchup.com/)
-* [AutoCAD](https://www.autodesk.co.uk/products/autocad/overview)
-
-### Quick Reference
-
-* [Paper Sizes](https://papersizes.io/)
-* [Dimensions Guide](https://www.dimensions.guide/)
-* [Social Sizes](https://socialsizes.io/)
-
 ### Sketch Plugins
 
-* [Toybox Linter](https://github.com/toyboxsystems/roller)
 * [Shared Styles Manager](https://gumroad.com/l/sketch-shared-styles-manager)
 * [Symbols Manager](https://gumroad.com/l/sketch-symbols-manager)
 * [Text Styles Manager](https://gumroad.com/l/sketch-text-styles-manager)
@@ -361,18 +280,9 @@ All tools need sharpening once in a while, so contribution is welcome. If you ju
 * [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)
 * [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb)
 
-### Office Suites
+### Podcasts, Blogs, Books
 
-* [G Suite](https://www.google.co.uk/docs/about/)
-
-### QA Tools
-
-* [AppSpector](https://appspector.com/)
-* [Toybox](https://www.toyboxsystems.com/)
-* [Browserstack](https://www.browserstack.com/)
-
-### Reads
-
+* [99% INVISIBLE](http://99percentinvisible.org/)
 * [Daring Fireball](https://daringfireball.net/)
 * [Fast Company](https://www.fastcompany.com/)
 * [The Next Web](https://thenextweb.com/)
@@ -395,43 +305,42 @@ All tools need sharpening once in a while, so contribution is welcome. If you ju
 * [XKCD](https://xkcd.com/)
 * [SmashingMag](https://www.smashingmagazine.com/)
 
-### Podcasts
-
-* [99% INVISIBLE](http://99percentinvisible.org/)
-
-### Conferences and Festivals
+### Conferences, Festivals, Awards
 
 * [SXSW](https://www.sxsw.com/)
 * [CHI](https://chi2019.acm.org/)
-
-### Awards
-
 * [Apple Design Awards](https://developer.apple.com/design/awards/)
 * [CSS Design Awards](http://www.cssdesignawards.com/)
 * [D&AD](https://www.dandad.org/)
 * [Awwwards](https://www.awwwards.com/)
 
-### Site Archivers
+### Microsite Builders
 
-[ArchiveBox](https://github.com/pirate/ArchiveBox)
+* [Semplice](https://www.semplice.com/)
+* [Squarespace](https://www.squarespace.com/)
+
+### CMSs
+
+* [Wordpress](https://wordpress.org/)
+* [Statamic](https://statamic.com)
+* [Kentico](https://www.kentico.com)
+* [Contentful](https://www.contentful.com)
 
 ## 🧰 Full List
 
-| Name | Use | Workstreams | Free? |
-|------|-----|-------------|-------|
-| UI
-| [Sketch](https://www.sketchapp.com/)
-| [InVision Studio](https://www.invisionapp.com/studio)
-| [Framer X](https://www.framer.com/)
-|<a href="https://www.adobe.com/products/xd.html">Adobe XD</a>
-|<a href="https://pencil.evolus.vn/">Pencil</a>
-|<a href ="https://icons8.com/lunacy">Lunacy</a></td>
-| Information Architecture Tools
-| [Omnigraffle](https://www.omnigroup.com/omnigraffle/)
-| [OmniOutliner](https://www.omnigroup.com/omnioutliner)
-| [QuickDBD](https://www.quickdatabasediagrams.com)
-| [Mermaid Diagrams](https://mermaidjs.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbkFbQ2hyaXN0bWFzXSAtLT58R2V0IG1vbmV5fCBCKEdvIHNob3BwaW5nKVxuQiAtLT4gQ3tMZXQgbWUgdGhpbmt9XG5DIC0tPnxPbmV8IERbTGFwdG9wXVxuQyAtLT58VHdvfCBFW2lQaG9uZV1cbkMgLS0-fFRocmVlfCBGW2ZhOmZhLWNhciBDYXJdXG4iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9fQ)
-| [LucidChart](https://www.lucidchart.com/)
+| Name | Description | Pros / Cons                    |
+|------|-------------|--------------------------------|
+| [Sketch](https://www.sketchapp.com/) |  |
+| [InVision Studio](https://www.invisionapp.com/studio) |  |
+| [Framer X](https://www.framer.com/) |  |
+| [Adobe XD](https://www.adobe.com/products/xd.html) |  |
+| [Pencil](https://pencil.evolus.vn/) |  |
+| [Lunacy](https://icons8.com/lunacy) |  |
+| [Omnigraffle](https://www.omnigroup.com/omnigraffle/) |  |
+| [OmniOutliner](https://www.omnigroup.com/omnioutliner) |  |
+| [QuickDBD](https://www.quickdatabasediagrams.com) |  |
+| [Mermaid Diagrams](https://mermaidjs.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbkFbQ2hyaXN0bWFzXSAtLT58R2V0IG1vbmV5fCBCKEdvIHNob3BwaW5nKVxuQiAtLT4gQ3tMZXQgbWUgdGhpbmt9XG5DIC0tPnxPbmV8IERbTGFwdG9wXVxuQyAtLT58VHdvfCBFW2lQaG9uZV1cbkMgLS0-fFRocmVlfCBGW2ZhOmZhLWNhciBDYXJdXG4iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9fQ) |  |
+| [LucidChart](https://www.lucidchart.com/) |  |
 | Research And Testing Tools
 | [OptimalWorkshop](https://www.optimalworkshop.com)
 | [xSort](https://www.optimalworkshop.com/treejack)
@@ -450,11 +359,14 @@ All tools need sharpening once in a while, so contribution is welcome. If you ju
 | [Usersthink](https://usersthink.com/)
 | [Crazyegg](https://www.crazyegg.com/)
 | [Clicktale](https://www.clicktale.com/)
+| [Morae](https://www.techsmith.com/morae.html)
+| [Screenflow](http://www.telestream.net/screenflow/overview.htm)
+| [UserZoom](https://www.userzoom.com/)
 | User Flow Tools
 | [Sketch.systems](https://sketch.systems/)
 | [OmniGraffle](https://www.omnigroup.com/omnigraffle/)
 | [Twine](http://twinery.org/)
-|[Draw.io](https://www.draw.io/)
+| [Draw.io](https://www.draw.io/)
 | [Flowmapp](https://flowmapp.com/)
 | [Google Drawings](https://docs.google.com/drawings/)
 | [Lucidchart](https://www.lucidchart.com/)
@@ -734,7 +646,9 @@ All tools need sharpening once in a while, so contribution is welcome. If you ju
 | [Animaticons](http://animaticons.co/)
 | [Essential Glyphs](https://interface.market/essential/basic-pack)
 | [Font Awesome](https://fontawesome.com/)
-| [Fontello](http://fontello.com/) | [Iconscout](https://iconscout.com/) | [Iconfinder](https://www.iconfinder.com)
+| [Fontello](http://fontello.com/) 
+| [Iconscout](https://iconscout.com/) 
+| [Iconfinder](https://www.iconfinder.com)
 | [Iconmonstr](https://iconmonstr.com/)
 | [Icon Store](https://iconstore.co/)
 | [ICONSVG](https://iconsvg.xyz/)
@@ -749,7 +663,7 @@ All tools need sharpening once in a while, so contribution is welcome. If you ju
 | [Zwicon](https://www.zwicon.com/)
 | Illustrations
 | [OUCH](https://icons8.com/ouch)
-|[Absurd Design](https://absurd.design)
+| [Absurd Design](https://absurd.design)
 | [DrawKit](https://www.drawkit.io/)
 | [LUKASZADAM](https://lukaszadam.com/illustrations)
 | [unDraw](https://undraw.co)
@@ -849,6 +763,7 @@ All tools need sharpening once in a while, so contribution is welcome. If you ju
 | [Window Resiser](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh)
 | [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)
 | [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb)
+| [Emmet Re:View](http://re-view.emmet.io/)
 | Office Suites
 | [G Suite](https://www.google.co.uk/docs/about/)
 | [LibreOffice](https://www.libreoffice.org/)
@@ -898,7 +813,11 @@ All tools need sharpening once in a while, so contribution is welcome. If you ju
 | Site Archivers
 | [ArchiveBox](https://github.com/pirate/ArchiveBox)
 | [Sitesucker](https://ricks-apps.com/osx/sitesucker/)
-
+| More
+| [xMind ZEN](https://www.xmind.net/zen/)
+| [XMIND 8](https://www.xmind.net/xmind8-pro/)
+| [Storybook](https://storybook.js.org/)
+| [Sitecore](https://www.sitecore.com/en-gb)
 <!--
 Updaed times
 Killer feature
