@@ -1,11 +1,11 @@
 <div align="center">
 <h1>🧰<br>Design Toolbox<br><sub>An opinionated list of tools for service design teams</sub></h1>
 <br>
-<a href="#contents">How it works</a> •
-<a href="#contributing">Contributing</a> •
-<a href="#toolkits">Toolkits</a> •
-<a href="#bins">Bins</a> •
-<a href="#tool-list">Tool list</a> •
+<a href="#-how-it-works">How it works</a> •
+<a href="#-contributing">Contributing</a> •
+<a href="#-toolkits">Toolkits</a> •
+<a href="#-bins">Bins</a> •
+<a href="#-tool-list">Tool list</a> •
 <a href="#"><del>Website</del></a>
 <br>
 <small>v2.0.0</small>
@@ -51,17 +51,13 @@ All tools need sharpening once in a while, so contribution is welcome. If you ju
 
 ## 🧰 Toolkits
 
-| Contents |  |
-|----------|----------|
-| [UI Design](#ui-design) | [Information Architecture](#information-architecture) |
-| [Research & Testing](#research-&-testing) | [UX](#ux) |
-| [Accessibility](#accessibility) | [Content Strategy](#content-strategy) |
-| [Front-end](#front-end) | [Back-end](#back-end) |
-| [Experience Measuring](#experience-measuring) | [Graphic Communication](#graphic-communication) |
-| [Photography](#photography) | [Design Utilities](#design-utilities) |
-| [Docs & Collaboration](#docs-&-collaboration) | [DevOps](#devops) |
-| [QA](#qa) | [Extended Reality](#extended-reality) |
-| [3D Design](#3d-design) | [2D & 3D Animation](#2d-&-3d-animation) |
+| Contents |  |  |  |
+|----------|--|--|--|
+| [UI Design](#ui-design) | [Information Architecture](#information-architecture) | [Research & Testing](#research-&-testing) | [UX](#ux) |
+| [Accessibility](#accessibility) | [Content Strategy](#content-strategy) | [Front-end](#front-end) | [Back-end](#back-end) |
+| [Experience Measuring](#experience-measuring) | [Graphic Communication](#graphic-communication) | [Photography](#photography) | [Design Utilities](#design-utilities) |
+| [Docs & Collaboration](#docs--collaboration) | [DevOps](#devops) | [QA](#qa) | [Extended Reality](#extended-reality) |
+| [3D Design](#3d-design) | [2D & 3D Animation](#2d--3d-animation) |
 
 ### UI Design
 
@@ -205,14 +201,11 @@ All tools need sharpening once in a while, so contribution is welcome. If you ju
 
 ## 🧰 Bins
 
-| Contents |  |
-|----------|----------|
-| [Type Foundries](#type-foundries) | [Utilities](#utilities) |
-| [Stock & Resources](#stock-&-resources) | [UI Kits](#ui-kits) |
-| [Inspiration](#inspiration) | [Sketch Plugins](#sketch-plugins) |
-| [Chrome Plugins](#chrome-plugins) | [Podcasts, Blogs, Books](#podcasts-blogs-books) |
-| [Conferences, Festivals, Awards](#conferences-festivals-awards) | [Microsite Builders](#graphic-communication) |
-| [CMSs](#cmss) | |
+| Contents |  |  |  |
+|----------|--|--|--|
+| [Type Foundries](#type-foundries) | [Utilities](#utilities) | [Stock & Resources](#stock--resources) | [UI Kits](#ui-kits) |
+| [Inspiration](#inspiration) | [Sketch Plugins](#sketch-plugins) | [Chrome Plugins](#chrome-plugins) | [Podcasts, Blogs, Books](#podcasts-blogs-books) |
+| [Conferences, Festivals, Awards](#conferences-festivals-awards) | [Microsite Builders](#graphic-communication) | [CMSs](#cmss) |
 
 ### Type Foundries
 
