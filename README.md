@@ -3,7 +3,7 @@
 <br>
 <a href="#contents">How it works</a> •
 <a href="#contributing">Contributing</a> •
-<a href="#workstreams">Workstreams</a> •
+<a href="#toolkits">Toolkits</a> •
 <a href="#bins">Bins</a> •
 <a href="#tool-list">Tool list</a> •
 <a href="#"><del>Website</del></a>
@@ -17,9 +17,10 @@
 
 ## 🧰 How it works
 
-Each recommended toolkit is listed under a workstream, such as UX, Front-End, etc. Find the right [stream](#workstreams) for your task, scan through the toolkit, then go off and grab the tools you need.
+Each recommended toolkit is named for a workstream, such as UX, Front-End, etc. Find the right [kit](#kits) for your stream, scan through the tools and grab whichever you need. Other useful lists and utilities can be found in the [bins](#bins).
 
-Tools are judged on the following rules of thumb. The rules leave room for *opinionation* so that you don't have to spend as much time evaluating each tool. In principle, if you agree with the rules, you can trust the list.
+Tools are judged on the following rules of thumb. The rules leave room for an *opinion on which is best*, so that you don
+'t have to spend as much time evaluating each tool. In principle, if you agree with the rules, you can trust the list.
 
 <pre align="center">
 <h3>Rules of thumb</h3>
@@ -35,10 +36,12 @@ Open File Formats > File Portability > Vendor Lock-In
 
 Established > Challenger > Beta
 
+For any size team > For big teams > For small teams
+
 Fewer tools > More tools
 </pre>
 
-A full list of [all tools](#all-tools) can be found after the toolboxes. The full list contains more information on each tool, including any killer features, dealbreakers and a link to the source. Anything that isn't a tool in and of itself but is still useful to list is dropped into the [bins](#bins).
+A full list of [all tools](#tool-list) can be found after the toolboxes. The full list contains more information on each tool, including any killer features, dealbreakers and a link to the source.
 
 If you have a suggestion, correction, the list is out of date or you think the recommendation is plain wrong, you can [raise an issue](/issues).
 
@@ -46,7 +49,7 @@ If you have a suggestion, correction, the list is out of date or you think the r
 
 All tools need sharpening once in a while, so contribution is welcome. If you just want to make a suggestion or correction, raising an [issue](/issues) is the way to go. If you're comfortable with Github you can also open a pull request to suggest a change.
 
-## 🧰 Toolboxes
+## 🧰 Toolkits
 
 | Contents |  |
 |----------|----------|
@@ -646,8 +649,8 @@ All tools need sharpening once in a while, so contribution is welcome. If you ju
 | [Animaticons](http://animaticons.co/)
 | [Essential Glyphs](https://interface.market/essential/basic-pack)
 | [Font Awesome](https://fontawesome.com/)
-| [Fontello](http://fontello.com/) 
-| [Iconscout](https://iconscout.com/) 
+| [Fontello](http://fontello.com/)
+| [Iconscout](https://iconscout.com/)
 | [Iconfinder](https://www.iconfinder.com)
 | [Iconmonstr](https://iconmonstr.com/)
 | [Icon Store](https://iconstore.co/)
@@ -819,7 +822,7 @@ All tools need sharpening once in a while, so contribution is welcome. If you ju
 | [Storybook](https://storybook.js.org/)
 | [Sitecore](https://www.sitecore.com/en-gb)
 <!--
-Updaed times
+Updated times
 Killer feature
 Dealbreaker
 -->
