@@ -1,5 +1,5 @@
 <div align="center">
-<h1>🧰<br>Design Toolbox<br><sub>An opinionated list of tools for service design teams</sub></h1>
+<h1>🧰<br>Design Toolbox<br><small>An opinionated list of tools for service design teams</small></h1>
 <br>
 <a href="#-how-it-works">How it works</a> •
 <a href="#-contributing">Contributing</a> •
