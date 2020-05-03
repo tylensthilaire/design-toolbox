@@ -227,7 +227,7 @@ All tools need sharpening once in a while, so contribution is welcome. If you ju
 ### Stock & Resources
 
 * [Pexels](https://www.pexels.com/)
-* [UI Faces](https://uifaces.co/)
+* [This Person Does Not Exist](https://thispersondoesnotexist.com)
 * [Mixkit](https://mixkit.co/)
 * [Noun Project](https://thenounproject.com/)
 * [Entypo](http://www.entypo.com/)
