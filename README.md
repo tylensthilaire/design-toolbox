@@ -74,7 +74,7 @@ All tools need sharpening once in a while, so contribution is welcome. If you ju
 * [Omnigraffle](https://www.omnigroup.com/omnigraffle/)
 * [OmniOutliner](https://www.omnigroup.com/omnioutliner)
 * [QuickDBD](https://www.quickdatabasediagrams.com)
-* [Integrity](https://peacockmedia.software/mac/integrity/free.html))
+* [Integrity](https://peacockmedia.software/mac/integrity/free.html)
 
 ### Research & Testing
 
@@ -322,7 +322,7 @@ All tools need sharpening once in a while, so contribution is welcome. If you ju
 * [Kentico](https://www.kentico.com)
 * [Contentful](https://www.contentful.com)
 
-## 🧰 Full List
+## 🧰 Tool List
 
 | Name | Description | Pros / Cons                    |
 |------|-------------|--------------------------------|
