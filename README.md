@@ -19,12 +19,11 @@
 
 Each recommended toolkit is named for a workstream, such as UX, Front-End, etc. Find the right [kit](#kits) for your stream, scan through the tools and grab whichever you need. Other useful lists and utilities can be found in the [bins](#bins).
 
-Tools are judged on the following rules of thumb. The rules leave room for an *opinion on which is best*, so that you don
-'t have to spend as much time evaluating each tool. In principle, if you agree with the rules, you can trust the list.
+Tools are judged on the following rules of thumb. The rules leave room for an *opinion on which is best*, so that you don't have to spend as much time evaluating each tool. In principle, if you agree with the rules, you can trust the list.
 
 <pre align="center">
 <h3>Rules of thumb</h3>
-Universal > Mac > Other
+Universal > Mac/iOS > Other
 
 Native > Web
 
@@ -119,14 +118,27 @@ All tools need sharpening once in a while, so contribution is welcome. If you ju
 
 ### Experience Measuring
 
-* [Google Analytics](https://analytics.google.com/analytics/web/)
-* [Fathom](https://usefathom.com/)
 * [Heap](https://heapanalytics.com/)
-* [Hotjar](https://www.hotjar.com/)
-* [Mixpanel](https://mixpanel.com/)
-* [Flurry](https://www.flurry.com/)
 * [Pa11y Dashboard](https://github.com/pa11y/pa11y-dashboard)
 * [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)
+* [Matomo](https://matomo.org)
+* [Optimizely](https://www.optimizely.com)
+<details>
+  <summary>Alternatives</summary>
+  
+| Name | Description | Notes |
+|------|----------|----------|
+| [Crazy Egg](https://www.crazyegg.com) | Web experience analytics, Experimentation ||
+| [Decibel Insight](https://decibel.com) | Web experience analytics ||
+| [Fathom](https://usefathom.com/) | Web traffic analytics | Lightweight, privacy focussed, open source |
+| [Flurry](https://www.flurry.com/) | App analytics | Free |
+| [Google Analytics](https://analytics.google.com/analytics/web/) | Web traffic analytics | Market leader |
+| [Hotjar](https://www.hotjar.com/) | Web experience analytics ||
+| [Mixpanel](https://mixpanel.com/) | Product analytics | Honourable mention |
+| [Plausible Analytics](https://plausible.io) | Lightweight, privacy focussed, open source |
+| [Siteimprove](https://siteimprove.com) | Web analytics all-in-one | Honourable mention |
+
+</details>
 
 ### Graphic Communication
 
