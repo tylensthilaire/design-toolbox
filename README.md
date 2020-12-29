@@ -1,16 +1,16 @@
 <div align="center">
 <h1>🧰<br>Design Toolbox<br><sub>An opinionated list of tools for service design teams</sub></h1>
-<br>
+<img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /> <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
+<p>
 <a href="#-how-it-works">How it works</a> •
 <a href="#-contributing">Contributing</a> •
 <a href="#-toolkits">Toolkits</a> •
 <a href="#-bins">Bins</a> •
 <a href="#-tool-list">Tool list</a> •
 <a href="#"><del>Website</del></a>
-<br>
+</br>
 <small>v2.0.0</small>
-<br>
-<br>
+</p>
 </div>
 
 **Finding the best set-up is hard**, especially when there's new tools what feels like every day. Design Toolbox **eliminates decision fatigue** by only listing **recommended tools.**<br>
