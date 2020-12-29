@@ -718,7 +718,9 @@ All tools need sharpening once in a while, so contribution is welcome. If you ju
 | [UI Space](https://uispace.net/free-sketch)
 | [Graphic Burger](https://graphicburger.com/)
 | [PlaceIt](https://placeit.net/)
-| Inspiration
+| [Pixeden](https://www.pixeden.com)
+| [Creative Market](https://creativemarket.com)
+| Visual Research
 | [Dribbble](https://dribbble.com/)
 | [Codrops Collective](https://tympanus.net/codrops/collective/)
 | [Microcopy Inspirations](https://www.microcopyinspirations.com)
@@ -731,6 +733,7 @@ All tools need sharpening once in a while, so contribution is welcome. If you ju
 | [ReallyGoodUX](https://www.reallygoodux.io/)
 | [UX Archive](http://uxarchive.com/)
 | [Behance](www.behance.net)
+| [Facebook Ad Library](https://www.facebook.com/ads/library/)
 | Extended Reality And Blended Space Tools
 | [Lens Studio](https://lensstudio.snapchat.com/)
 | [Lightform](https://lightform.com/)
