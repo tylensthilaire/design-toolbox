@@ -164,7 +164,7 @@ All tools need sharpening once in a while, so contribution is welcome. If you ju
 ### Docs & Collaboration
 
 * [Airtable](https://airtable.com/)
-* [appear.in](https://appear.in/)
+* [Whereby](https://whereby.com/)
 * [Harvest](https://www.getharvest.com)
 * [Jira](https://www.atlassian.com/software/jira)
 * [Miro](https://miro.com/)
@@ -503,7 +503,6 @@ All tools need sharpening once in a while, so contribution is welcome. If you ju
 | [Blobmaker](https://www.blobmaker.app)
 | Documentation And Collaboration Tools
 | [Airtable](https://airtable.com/)
-| [appear.in](https://appear.in/)
 | [Harvest](https://www.getharvest.com)
 | [Jira](https://www.atlassian.com/software/jira)
 | [Miro](https://miro.com/)
