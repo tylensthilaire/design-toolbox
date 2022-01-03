@@ -1,6 +1,7 @@
 <div align="center">
 <h1>🧰<br>Design Toolbox<br><sub>An opinionated list of tools for service design teams</sub></h1>
-<br>
+<img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /> <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
+<p>
 <a href="#-how-it-works">How it works</a> •
 <a href="#-contributing">Contributing</a> •
 <a href="#-toolkits">Toolkits</a> •
@@ -9,8 +10,7 @@
 <a href="https://tylensthilaire.notion.site/Design-Toolbox-d6d8a2126752436ebb5e155677697397">Website</a>
 <br>
 <small>v2.1.0</small>
-<br>
-<br>
+</p>
 </div>
 
 **Finding the best set-up is hard**, especially when there's new tools what feels like every day. Design Toolbox **eliminates decision fatigue** by only listing **recommended tools.**<br>
@@ -19,14 +19,13 @@
 
 Each recommended toolkit is named for a workstream, such as UX, Front-End, etc. Find the right [kit](#kits) for your stream, scan through the tools and grab whichever you need. Other useful lists and utilities can be found in the [bins](#bins).
 
-Tools are judged on the following rules of thumb. The rules leave room for an *opinion on which is best*, so that you don
-'t have to spend as much time evaluating each tool. In principle, if you agree with the rules, you can trust the list.
+Tools are judged on the following rules of thumb. The rules leave room for an *opinion on which is best*, so that you don't have to spend as much time evaluating each tool. In principle, if you agree with the rules, you can trust the list.
 
 <br>
 
 <pre align="center">
 <h3>Rules of thumb</h3>
-Universal > Mac > Other
+Universal > Mac/iOS > Other
 
 Native > Web
 
@@ -170,7 +169,6 @@ All tools need sharpening once in a while, so contribution is welcome. If you ju
 
 ### DevOps
 
-
 * [AWS](https://aws.amazon.com/)
 * [BitBucket](https://bitbucket.org/)
 * [CloudFlare](https://www.cloudflare.com/en-gb/)
@@ -238,7 +236,7 @@ All tools need sharpening once in a while, so contribution is welcome. If you ju
 ### Stock & Resources
 
 * [Pexels](https://www.pexels.com/)
-* [UI Faces](https://uifaces.co/)
+* [This Person Does Not Exist](https://thispersondoesnotexist.com)
 * [Mixkit](https://mixkit.co/)
 * [Noun Project](https://thenounproject.com/)
 * [Entypo](http://www.entypo.com/)
